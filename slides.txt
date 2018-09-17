@@ -1,0 +1,43 @@
+=======================
+The Joy of Angry Birds
+=======================
+
+.. contents:: Table of Contents
+
+Introduction
+============
+
+Angry Birds is a game that was developed by Rovio Entertainment and
+was first released on the iPhone in 2009. The game features a group
+of multi-colored birds whose aim it is to save their eggs from a group
+of pigs.
+
+Game Premise
+============
+
+A team of birds must save their eggs from a group of enemy green pigs.
+The pigs are protected by structures made of various materials such
+as wood, glass, ice, rocks, etc.
+
+As the controller of the birds team, it is your job to destroy these
+structures and kill the pigs in order to regain your eggs. If you
+succeed in your mission, you regain your eggs and move to the next level.
+
+Game Play
+=========
+
+Each bird in your team has a unique power that is best suited to destroying
+a particular type of structure. For example, blue birds are most effective at
+destroying structures made of ice or glass. Yellow birds have the ability to
+accelarate and are most effective at destroying wooden structures, whereas an
+orange bird, with the ability to inflate and expand, is the bird of choice when
+it comes to causing mass destruction.
+
+Why You Need To Play Angry Birds
+================================
+
+Angry Birds is **THE** game to play when it comes to passing the more monotonous
+moments in life. Whether it's riding the subway, sitting in the doctor's office, or watching
+an episode of Friends, reach for Angry Birds and make that moment a moment of joy!
+
+..
